@@ -24,8 +24,8 @@
       "product-name", 
       "product-identifier.product",
       "product-price", 
-      "flex-layout.row#qtd-sku",
-      "buy-button"
+      "buy-button",
+      "flex-layout.row#qtd-sku"
     ],
     "props": {
       "verticalAlign": "middle",
