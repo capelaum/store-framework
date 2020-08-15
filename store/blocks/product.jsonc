@@ -54,7 +54,9 @@
   },
   "sku-selector": {
     "props": {
-      "hideImpossibleCombinations": false
+      "hideImpossibleCombinations": false,
+      "showValueForVariation": "image",
+      "showVariationsErrorMessage": true
     }
   },
   "product-brand": {
