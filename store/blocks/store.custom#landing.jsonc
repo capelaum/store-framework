@@ -1,0 +1,22 @@
+{
+  "store.custom#landing": { 
+    "blocks": [
+      "image#landingbanner", 
+      "search-result-layout.customQuery"
+    ]
+  },
+  "image#landingbanner": { 
+    "props": {
+      "minWidth": "100%",
+      "src": "https://www.freeiconspng.com/uploads/rick-and-morty-icon-png-26.png"
+    }
+  },
+  "search-result-layout.customQuery": {
+    "props": {
+      "maxItemsPerPage": 8,
+      "hideUnavailableItems": true,
+      "hiddenOptions": "OrderByReleaseDateDESC",
+      "querySchema": "Blue Top Retro Camera"
+    }
+  }
+}
