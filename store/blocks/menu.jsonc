@@ -49,7 +49,6 @@
       "vtex.menu@2.x:menu#eletronics"
     ]
   },
-
   "vtex.menu@2.x:menu#eletronics": {
     "children": [
       "menu-item#cameras",
