@@ -18,8 +18,7 @@
       "flex-layout.row#results",
       "search-fetch-more"
     ],
-    "props": {
-    }
+    "props": {}
   },
   "flex-layout.row#results": {
     "children": [
@@ -39,9 +38,7 @@
     "children": [
       "search-content"
     ],
-    "props": {
-
-    }
+    "props": {}
   },
   "search-content": {
     "blocks": ["gallery", "not-found"]
